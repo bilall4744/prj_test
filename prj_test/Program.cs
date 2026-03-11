@@ -17,6 +17,14 @@ namespace prj_test
             
             Console.WriteLine("Add new feature/test_1");
             Console.WriteLine("Hello frend ...");
+
+            for (int i = 0; i <= 10; i++)
+            {
+                double result = i * 10.5 - 21;
+                Console.WriteLine(result);
+            }
+
+            Console.WriteLine("расчет завершен");
         }
     }
 }
