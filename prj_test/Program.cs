@@ -14,6 +14,8 @@ namespace prj_test
             Console.WriteLine("Hello 11 ...");
             Console.WriteLine("Hello 21 ...");
             Console.WriteLine("Hello 31 ...");
+            
+            Console.WriteLine("Add new feature/test_1");
         }
     }
 }
